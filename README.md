@@ -19,7 +19,7 @@ Todos os prompts seguem abaixo.
 
 - Nome do podcast e texto gerado via ChatGPT
 - Imagens geradas via Gemini
-- Audio dublado via Elevenlabs
+- Audio gerado via Elevenlabs
 - Edição de audio via Capcut
 
 ## 📚 Materiais
